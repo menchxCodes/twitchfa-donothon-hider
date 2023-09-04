@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Twitchfa Donothon Hider",
-  "description": "Shows how many streamers on Twitchfa/Paxit.ir are running a donothon, and adds a button to hide them to better showcase other streamers.",
+  "description": "Shows how many streamers on paxit.ir are running a donothon, and adds a button to hide them to better showcase other streamers.",
   "version": "0.0.1",
   "action": {
     "default_icon": {
