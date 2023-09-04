@@ -1,0 +1,22 @@
+.dono-hidden {
+  opacity: 0.1;
+}
+
+.donothoners {
+  animation: opacity-rise 1s;
+
+  display: flex;
+  gap: 1em;
+  border: 2px #4f46e5 solid;
+  border-radius: 100px;
+  align-items: center;
+}
+
+@keyframes opacity-rise {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
