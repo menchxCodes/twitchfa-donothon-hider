@@ -2,6 +2,8 @@
 
 A simple google chrome extention to view how many streamers on paxit.ir/streamers (formerly TwitchFa) are running a donothon to better discover those who running one.
 
+![Showcase gif of the TwitchFa Donothon Hider](./twitchfa-donothon-hider.gif)
+
 ## How to Install
 
 Chrome:
@@ -20,4 +22,4 @@ Chrome:
 
 ## How to use
 
-Simply add the extention to your browser (.crx), and it should work automatically when you visit [paxit.ir/streamers](https://www.paxit.ir/streamers)!
+Simply add the extention to your browser using instructions above, and it should work automatically when you visit [paxit.ir/streamers](https://www.paxit.ir/streamers)!
