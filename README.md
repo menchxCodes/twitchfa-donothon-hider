@@ -6,16 +6,17 @@ A simple google chrome extention to view how many streamers on paxit.ir/streamer
 
 Chrome:
 
-1. Download the latest **twitchfa-donothon-remover.crx** from [Releases](https://github.com/menchxCodes/twitchfa-donothon-hider/releases/tag/chrome).
+1. Download the latest **twitchfa-donothon-hider.crx** from [Releases](https://github.com/menchxCodes/twitchfa-donothon-hider/releases/tag/chrome).
+
+1. Extract the downloaded **twitchfa-donothon-hider.crx** to a desired folder.
 
 1. Launch the Chrome browser, click the Chrome menu icon, Chrome menu icon, consisting of three vertical dots, then select More tools, and then select Extensions.
 
 1. Ensure that the **Developer mode** check box in the upper right corner is enabled.
 
-1. Use drag-and-drop to drag the CRX file from the temporary location you used in step 1, and drop it into the Extensions window to install.
+1. Click the **"Load Unpacked"** button at the top-left corner, then select the **Folder** you just extracted to.
 
-1. To verify the install, relaunch the Chrome browser and, in the address bar, enter:
-   > chrome://extensions
+1. Verify that "Twitch Donothon Hider" is in your extentions list and is enabled.
 
 ## How to use
 
